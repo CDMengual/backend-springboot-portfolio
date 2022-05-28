@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.portfolio.Cesar.service.IUsuarioService;
 
 
-@CrossOrigin(origins = {"https://portfolio-cdmengual.web.app"})
+@CrossOrigin(origins = {"https://portfolio-cmengual.web.app"})
 @RestController
 public class ControllerUsuario {
     
